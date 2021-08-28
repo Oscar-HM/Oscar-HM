@@ -1,5 +1,5 @@
 ### Hola, soy Oscar 👋
-#Mi horario
+# Mi horario
 | HORA  | LUNES                     | MARTES                    | MIERCOLES                 | JUEVES                    | VIERNES                 |
 |-------|---------------------------|---------------------------|---------------------------|---------------------------|-------------------------|
 | 13:00 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 |                         |
