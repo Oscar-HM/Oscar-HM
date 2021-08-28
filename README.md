@@ -1,5 +1,9 @@
 ### Hola, soy Oscar 👋
-# Mi horario
+
+#### Soy estudiante del Instituto Tecnológico de Tijuana, de la carrera de Sistemas Computacionales :octocat:
+
+Mi horario es el siguiente:
+
 | HORA  | LUNES                     | MARTES                    | MIERCOLES                 | JUEVES                    | VIERNES                 |
 |-------|---------------------------|---------------------------|---------------------------|---------------------------|-------------------------|
 | 13:00 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 |                         |
