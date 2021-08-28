@@ -1,8 +1,14 @@
-### Hi there 👋
-
+### Hola, soy Oscar 👋
+#Mi horario
+| HORA  | LUNES                     | MARTES                    | MIERCOLES                 | JUEVES                    | VIERNES                 |
+|-------|---------------------------|---------------------------|---------------------------|---------------------------|-------------------------|
+| 13:00 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 |                         |
+| 14:00 |                           |                           |                           |                           |                         |
+| 15:00 | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS   |
+| 16:00 | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2 |
+| 17:00 | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     |                         |
+| 18:00 | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO     |
 <!--
-**Oscar-HM/Oscar-HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
