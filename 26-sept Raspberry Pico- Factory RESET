@@ -5,4 +5,4 @@ El nombre está inspirado en el microcontrolador Arduino Nano.
 MicroPython, como sugerencia Python.
 
 ¿Con sus palabras cómo puede explicar lo que es "OpenOCD" pues al final del artículo de la ELEKTOR MAGAZINE esta la RaspberryPi-4 SoC y la MCU-Pico conectadas...?
-Es una herramienta de código abierto, OpenOCD (On-Chip Debugger).
+Es una herramienta de código abierto, un traductor de depuración, OpenOCD (On-Chip Debugger).
