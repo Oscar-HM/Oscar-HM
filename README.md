@@ -1,17 +1,7 @@
 ### Hola, soy Oscar 👋
 
-#### Soy estudiante del Instituto Tecnológico de Tijuana, de la carrera de Sistemas Computacionales :octocat:
+#### Graduado en Instituto Tecnológico de Tijuana, de la carrera de Sistemas Computacionales :octocat:
 
-Mi horario es el siguiente:
-
-| HORA  | LUNES                     | MARTES                    | MIERCOLES                 | JUEVES                    | VIERNES                 |
-|-------|---------------------------|---------------------------|---------------------------|---------------------------|-------------------------|
-| 13:00 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 | TALLER DE INVESTIGACIÓN 1 |                         |
-| 14:00 |                           |                           |                           |                           |                         |
-| 15:00 | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS     | REDES DE COMPUTADORAS   |
-| 16:00 | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2   | LENGUAJES Y AUTOMATAS 2 |
-| 17:00 | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     | SISTEMAS PROGRAMABLES     |                         |
-| 18:00 | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO       | COMPUTO DISTRIBUIDO     |
 <!--
 Here are some ideas to get you started:
 
